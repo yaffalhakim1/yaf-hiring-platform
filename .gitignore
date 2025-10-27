@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.local
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
+
+Case Study Brief - Frontend Engineer 2025.pdf
+IMPLEMENTATION_PLAN.md
+sql-schema.md
+response-reference.md
